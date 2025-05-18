@@ -33,7 +33,7 @@ This is a responsive, modern web version of the classic Tic Tac Toe game built u
 
 <img src="./preview.png" alt="Tic Tac Toe Game Screenshot" width="400"/>
 
-> 📸 Add a screenshot of your game as `preview.png` in the root folder!
+> 📸 Screenshot of game!
 
 ---
 

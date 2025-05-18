@@ -4,8 +4,7 @@ This is a responsive, modern web version of the classic Tic Tac Toe game built u
 
 ## 🚀 Live Demo
 
-👉 [Click here to play](https://your-deployment-url.netlify.app)  
-(Deploy this to [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/) and update the link)
+👉 [Click here to play](https://tictactoeta.netlify.app)  
 
 ---
 
